@@ -1,0 +1,32 @@
+h1 {
+    background-color: black;
+    color:white ;
+    font-style:normal;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+h1 span {
+    color: #00fdfd
+}
+
+h2 {
+    background-color: #664199;
+    color:white ;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:light;
+    font-style:italic;
+    text-align:center;
+}
+
+h3 {
+    background-color: #9EC5F8;
+    color: #302A65;
+    font-style: normal;
+    font-weight: light;
+    font-family:'Courier New', Courier, monospace;
+    text-align: right;
+    text-decoration: underline;
+}
+
+/*Baje una extension para ocupar los colores exactos del ejercicio.
